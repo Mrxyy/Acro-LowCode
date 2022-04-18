@@ -147,6 +147,10 @@ export const routes: Route[] = [
       },
     ],
   },
+  {
+    name: 'table-engines',
+    key: 'table-engines',
+  },
 ];
 
 export const getName = (path: string, routes) => {

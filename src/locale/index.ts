@@ -59,6 +59,7 @@ const i18n = {
     'navbar.search.placeholder': 'Please search',
   },
   'zh-CN': {
+    'table-engines': '表单引擎',
     'menu.dashboard': '仪表盘',
     'menu.list': '列表页',
     'menu.result': '结果页',
